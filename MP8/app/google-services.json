@@ -1,0 +1,44 @@
+{
+  "project_info": {
+    "project_number": "242620332442",
+    "firebase_url": "https://topic-18-firebase-authenticati.firebaseio.com",
+    "project_id": "topic-18-firebase-authenticati",
+    "storage_bucket": "topic-18-firebase-authenticati.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:242620332442:android:8fd24616332eb7b4",
+        "android_client_info": {
+          "package_name": "com.example.t18_even_more_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "242620332442-2dtp7rvqjlr38i83a475k4rdf7jta7g9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.t18_even_more_firebase",
+            "certificate_hash": "a122d8e1ec3af96416f790a7a89c1e739ed752ee"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA25Pt2n53G0KGWg1j8_127F9SbLaRPI1k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "242620332442-cll3h74h2ri73pbohs4c81vkihcnja2i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
